@@ -33,7 +33,7 @@ FROM courses;
 
 SELECT title
 FROM assignments
-WHERE due_date LIKE '%-09-%';
+WHERE due_date LIKE ;
 
 
 SELECT *
